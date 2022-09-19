@@ -10,7 +10,7 @@ Sign up (register)
 Login
 Quiz page (with timer)
 Result page (with score, time taken, percentage score, total questions, correct answers, wrong answers)
-Admin:
+<p>Admin:</p>
 
 Login
 Sign up
@@ -18,14 +18,14 @@ Add Question
 Quiz Page
 Result Page
 Project Prerequisites
-You should have a basic knowledge of the following technologies:
+<p>You should have a basic knowledge of the following technologies:</p>
 
-HTML: to display content on web page
+<p>HTML: to display content on web page</p>
 CSS: to style HTML document
 JavaScript: to make a timer
 Bootstrap: A front-end framework
 Python: Programming language.
 Django: Python framework
 
-To install Django:
+<p>To install Django:</p>
 pip install Django
